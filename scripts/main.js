@@ -177,6 +177,106 @@ Array.from(buttons).forEach(function (btn) {
       case "50":
         showReason(`№${e.target.id}. "Не почему, а вопреки"`);
         break;
+      case "51":
+        showReason(`№${e.target.id}. Люблю тебя за твой смех`);
+        break;
+      case "52":
+        showReason(`№${e.target.id}. Ты даешь мне варежку когда руке холодно`);
+        break;
+      case "53":
+        showReason(`№${e.target.id}. Ты встречаешь меня с работы или учёбы`);
+        break;
+      case "54":
+        showReason(`№${e.target.id}. У тебя нежные губы`);
+        break;
+      case "55":
+        showReason(`№${e.target.id}. Ты меня мило ревнуешь`);
+        break;
+      case "56":
+        showReason(`№${e.target.id}. Ты моё всё`);
+        break;
+      case "57":
+        showReason(
+          `№${e.target.id}. Я могу разделить с тобой и радость и горе`
+        );
+        break;
+      case "58":
+        showReason(`№${e.target.id}. Ты мне пишешь первая`);
+        break;
+      case "59":
+        showReason(`№${e.target.id}. Я скучаю когда долго не видимся`);
+        break;
+      case "60":
+        showReason(`№${e.target.id}. Мы вместе любим развлекаться`);
+        break;
+      case "61":
+        showReason(`№${e.target.id}. На тебя невозможно долго обижаться`);
+        break;
+      case "62":
+        showReason(`№${e.target.id}. Ты заботишься обо мне когда я болею`);
+        break;
+      case "63":
+        showReason(`№${e.target.id}. За то что мы вместе мечтаем`);
+        break;
+      case "64":
+        showReason(`№${e.target.id}. Ты мне не врёшь`);
+        break;
+      case "65":
+        showReason(`№${e.target.id}. Ты всегда дашь дельный совет`);
+        break;
+      case "66":
+        showReason(`№${e.target.id}. Ты искренне за меня радуешься`);
+        break;
+      case "67":
+        showReason(`№${e.target.id}. Ты солнышко :)`);
+        break;
+      case "68":
+        showReason(`№${e.target.id}. Ты ценишь всё что я для тебя делаю`);
+        break;
+      case "69":
+        showReason(`№${e.target.id}. Я тоже люблю Цветы для Элджернона`);
+        break;
+      case "70":
+        showReason(`№${e.target.id}. Мы мяукаем как котики`);
+        break;
+      case "71":
+        showReason(`№${e.target.id}. А я твой котик-муркотик`);
+        break;
+      case "72":
+        showReason(`№${e.target.id}. Ты восхищаешься моими умениями`);
+        break;
+      case "73":
+        showReason(`№${e.target.id}. Ты позитивный человек`);
+        break;
+      case "74":
+        showReason(`№${e.target.id}. Ты редко со мной споришь`);
+        break;
+      case "75":
+        showReason(
+          `№${e.target.id}. Ты всегда говоришь обо мне только хорошее`
+        );
+        break;
+      case "76":
+        showReason(
+          `№${e.target.id}. Когда я голоден, ты принесёшь мне покушать`
+        );
+        break;
+      case "77":
+        showReason(
+          `№${e.target.id}. Ты всегда опасаешься как бы я тебя не испугал`
+        );
+        break;
+      case "78":
+        showReason(`№${e.target.id}. Я твой котик-муркотик, дважды`);
+        break;
+      case "79":
+        showReason(`№${e.target.id}. Ты не похожа на остальных`);
+        break;
+      case "80":
+        showReason(
+          `№${e.target.id}. И главное - просто потому что ты есть!`
+        );
+        break;
       default:
         break;
     }
